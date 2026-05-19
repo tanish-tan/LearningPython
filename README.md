@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-This repository contains my notes, practice programs, and exercises while learning Python through the Harvard CS50 Python course and hands-on coding practice. :contentReference[oaicite:0]{index=0}
+This repository contains my notes, practice programs, and exercises while learning Python through the Harvard CS50 Python course and hands-on coding practice.
 
 ## About
 
